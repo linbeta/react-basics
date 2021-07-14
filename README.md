@@ -5,7 +5,7 @@
 ## Step 1 - Start in a clean environment
 - Click the button to launch the GitPod IDE.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/datastaxdevs/react-basics/)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://copper-pelican-kogoyn58.ws-us10.gitpod.io/)
 
 
 ## Step 2 - create-react-app
